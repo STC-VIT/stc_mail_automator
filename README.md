@@ -18,8 +18,8 @@
  
  The script can be run as any Python script as per your native OS.
  
- ### Windows
+ #### Windows
  ```py offline_sheets_mail.py```
  
-### Unix
+#### Unix
 ```python3 offline_sheets_mail.py```
