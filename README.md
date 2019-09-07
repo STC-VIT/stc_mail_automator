@@ -1,0 +1,1 @@
+# stc_mail_automator
